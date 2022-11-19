@@ -1,8 +1,8 @@
-IBM-Project-17312-1659633887
+IBM-Project-44130-1660722426
 Predicting the energy output of wind turbine based on weather condition
 
 Team ID
-PNT2022TMID53075
+PNT2022TMID35052
 
 Project Overview
 Wind power generation differs from conventional thermal generation due to the stochastic nature
